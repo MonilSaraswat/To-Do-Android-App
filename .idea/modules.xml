@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/To-Do-Android-App.iml" filepath="$PROJECT_DIR$/.idea/To-Do-Android-App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="notes/app" />
+      <module fileurl="file://$PROJECT_DIR$/notes.iml" filepath="$PROJECT_DIR$/notes.iml" group="notes" />
+    </modules>
+  </component>
+</project>
