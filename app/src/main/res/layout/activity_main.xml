@@ -11,6 +11,8 @@
         android:layout_height="wrap_content"
         android:id="@+id/taskList"
         android:layout_margin="10dp"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="10.0sp"
         />
 
 </RelativeLayout>
